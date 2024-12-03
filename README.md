@@ -17,4 +17,4 @@ CISCX82Doodler is a simple Android application that allows users to doodle on a 
 1. **Clone the Repository**:
    Open a terminal and clone the repository:
    ```bash
-   git clone https://github.com/humzakhan091401/CISCX82Doodler/tree/master
+   https://github.com/humzakhan091401/CISCX82Doodler/tree/master
